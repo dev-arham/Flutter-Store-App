@@ -15,7 +15,13 @@ Store App is a Flutter-based e-commerce application designed to showcase a varie
 
 ## Screenshots
 
-Include screenshots of your app here to showcase the UI.
+![intro screenshot](https://github.com/dev-arham/Flutter-Store-App/blob/main/assets/screenshots/intro.jpg)
+![signin screenshot](https://github.com/dev-arham/Flutter-Store-App/blob/main/assets/screenshots/signin.jpg)
+![home screenshot](https://github.com/dev-arham/Flutter-Store-App/blob/main/assets/screenshots/home.jpg)
+![shop screenshot](https://github.com/dev-arham/Flutter-Store-App/blob/main/assets/screenshots/shop.jpg)
+![product screenshot](https://github.com/dev-arham/Flutter-Store-App/blob/main/assets/screenshots/product.jpg)
+![cart screenshot](https://github.com/dev-arham/Flutter-Store-App/blob/main/assets/screenshots/cart.jpg)
+![profile screenshot](https://github.com/dev-arham/Flutter-Store-App/blob/main/assets/screenshots/profile.jpg)
 
 ## Getting Started
 
